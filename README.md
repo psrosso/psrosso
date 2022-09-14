@@ -1,4 +1,3 @@
-### Olá, eu sou a Rafaela Rosso 👋
 # Welcome to my [Github!](https://github.com/karlapereira#)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalesgoncalves/)](https://www.linkedin.com/in/karla-pereira-ba0021117/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thales-goncalves)](https://github.com/karlapereira)
