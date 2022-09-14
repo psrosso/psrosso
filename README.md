@@ -1,6 +1,4 @@
 # Welcome to my [Github!](https://github.com/karlapereira#)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalesgoncalves/)](https://www.linkedin.com/in/karla-pereira-ba0021117/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thales-goncalves)](https://github.com/karlapereira)
 
 <p align=right">
 <img align="right" src="https://media1.giphy.com/media/j4rPM934CLIvC/giphy.gif?cid=ecf05e470bum5rx1r9220ug30fbnwb5tejfu5uooklsgcwgj&rid=giphy.gif&ct=g" alt="preview.gif" width="420">
