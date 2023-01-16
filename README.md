@@ -7,17 +7,15 @@
 
 ```Python
 class about_me:
-   name = "Rafaela Rosso"
-   summary = "Estagiária em Engenharia de Dados"
-   age = 20
-   passion = "Viagens, séries, universo dos dados e viagens de novo."
-   
-def __init__(self, coursers, occupation) -> None:
-   self.coursers = coursers
-   self.occupation = occupation
-        
- def __repr__(self, ):
-   return {"name": self.name, "sumamy": self.summary, "age": age, "passion": passion}
+    def __init__(self):
+        self.name = "Rafaela Rosso"
+        self.summary = "estagiária em Engenharia de Dados"
+        self.age = "20 anos"
+        self.passion = "viagens, séries, universo dos dados e viagens de novo."
+
+person = about_me()
+
+print(f"Olá, me chamo {person.name}, sou {person.summary}, tenho {person.age} e minhas maiores paixões são {person.passion}") 
 ```
  <div>
   <a href="https://github.com/psrosso">
