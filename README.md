@@ -6,16 +6,22 @@
 
 
 ```Python
+from datetime import date
+from dateutil.relativedelta import relativedelta
+
 class about_me:
-    def __init__(self):
-        self.name = "Rafaela Rosso"
-        self.summary = "estagiária em Engenharia de Dados"
-        self.age = "20 anos"
-        self.passion = "viagens, séries, universo dos dados e viagens de novo."
+    name = "Rafaela Rosso"
+    summary = "estagiária em engenharia de dados"
+    age = 20
+    passion = "Viagens, séries, universo dos dados e viagens de novo."
+    
+    inicio_estagio = date(2022, 8, 1)
+    data_atual = date.today()
+    tempo_estagio = relativedelta(data_atual, inicio_estagio).months
 
-person = about_me()
+me = about_me()
+print(f"Prazer, me chamo {me.name}, sou {me.summary} há {me.tempo_estagio} meses. Tenho {me.age} anos e minhas maiores paixões são: {me.passion}")
 
-print(f"Olá, me chamo {person.name}, sou {person.summary}, tenho {person.age} e minhas maiores paixões são {person.passion}") 
 ```
  <div>
   <a href="https://github.com/psrosso">
