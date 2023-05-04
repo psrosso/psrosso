@@ -13,7 +13,7 @@ class about_me:
     name = "Rafaela Rosso"
     summary = "estagiária em engenharia de dados"
     age = 20
-    passion = "Viagens, séries, universo dos dados e viagens de novo."
+    passion = "Viagens, músicas e o universo dos dados"
     
     inicio_estagio = date(2022, 8, 1)
     data_atual = date.today()
